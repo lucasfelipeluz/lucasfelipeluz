@@ -1,4 +1,4 @@
-# Fala rapeizes!
+# <img src="https://img.icons8.com/color/48/000000/brazil.png" width="30"/> Fala rapeizes! / 
 Meu nome é Lucas, sou estudante de Analíse e Desenvolvimento de Sistemas.
 
 ### Linguagens de Programação 🌐
