@@ -3,7 +3,9 @@
 My name is Lucas, I am currently majoring in Systems Analysis and Development.  <br>
 :books: I am working and studying to become a Full-stack Web Developer.
 <hr>
- I want to learn <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> and <img src="https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=php&logoColor=dcd5f2">
+
+I want to learn <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> and <img src="https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=php&logoColor=dcd5f2">
+
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
