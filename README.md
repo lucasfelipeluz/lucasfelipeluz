@@ -2,6 +2,8 @@
 Meu nome é Lucas, sou estudante de Analíse e Desenvolvimento de Sistemas. <br>
 My name is Lucas, I am a student of Analysis and Systems Development.
 
+<hr>
+
 ### Linguagens de Programação | Programming Languages 🌐
 
 | <img src="https://img.icons8.com/officel/80/000000/php-logo.png" alt="php" width="38"> |  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="38" alt="javascript"/> | <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="38"/>
