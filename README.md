@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/color/48/000000/brazil.png" width="30"/> Fala rapeizes! / 
+# <img src="https://img.icons8.com/color/48/000000/brazil.png" width="30"/> Fala rapeizes! / <img src="https://img.icons8.com/office/16/000000/usa.png" width="30"/> What's Up?
 Meu nome é Lucas, sou estudante de Analíse e Desenvolvimento de Sistemas.
 
 ### Linguagens de Programação 🌐
@@ -8,7 +8,7 @@ Meu nome é Lucas, sou estudante de Analíse e Desenvolvimento de Sistemas.
 
 <hr>
 
-# What's Up?
+# 
 My name is Lucas, I am a student of Analysis and Systems Development.
 
 
