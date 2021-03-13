@@ -1,11 +1,11 @@
 <p align="left">
-Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong>. Atualmente estou fazendo graduação em Analíse e Desenvolvimento de Sistemas.
+Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong> e atualmente estou fazendo graduação em Analíse e Desenvolvimento de Sistemas.
 </p>
 
-
-Habilidades: HTML, CSS, Javascript, JQuery, Bootstrap e Sass.
-
+<p align="left">
+Habilidades: HTML, CSS, Javascript, JQuery, Bootstrap e Sass. <br>
 Ferramentas: Git e GitHub, Figma e VSCode.
+</p>
 
 Se você quiser fazer um projeto comigo(ou bater um papo), sinta-se à vontade para me enviar uma mensagem:<br>
 <p align="left">
