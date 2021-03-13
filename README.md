@@ -1,4 +1,4 @@
-<img src="https://image.flaticon.com/icons/png/256/2317/2317963.png" min-width="400px" max-width="400px" width="400px" align="right"/>
+
 Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong>. <br>
 :books:Atualmente estou fazendo graduação em Analíse e Desenvolvimento de Sistemas.<br>
 Nas horas vagas estou focando em aprender <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">.
