@@ -3,11 +3,11 @@ Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong> e atualmen
 </p>
 
 <p align="left">
-Habilidades: HTML, CSS, Javascript, JQuery, Bootstrap e Sass. <br>
-Ferramentas: Git e GitHub, Figma e VSCode.
+🎯Habilidades: HTML, CSS, Javascript, JQuery, Bootstrap e Sass. <br>
+🩺Ferramentas: Git e GitHub, Figma e VSCode.
 </p>
 
-Se você quiser fazer um projeto comigo(ou bater um papo), sinta-se à vontade para me enviar uma mensagem:<br>
+Se você quiser fazer um projeto comigo (ou bater um papo), sinta-se à vontade para me enviar uma mensagem:<br>
 <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
