@@ -1,12 +1,6 @@
 <img src="assets/Code Development _Flatline.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
-Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong>.
-</p>
-<p align="left">
-:books:Atualmente estou fazendo graduação em Analíse e Desenvolvimento de Sistemas.<br>
-</p>
-<p align="left">
-Nas horas vagas estou focando em aprender <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">.
+Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong>. Atualmente estou fazendo graduação em Analíse e Desenvolvimento de Sistemas. Nas horas vagas estou focando em aprender <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">.
 </p>
 
 
