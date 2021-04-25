@@ -3,7 +3,7 @@ Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong> e atualmen
 </p>
 
 <p align="left">
-🎯Habilidades: HTML, CSS, Javascript, JQuery, Bootstrap e Sass. <br>
+🎯Habilidades: HTML, CSS, Javascript, JQuery e Bootstrap. <br>
 🩺Ferramentas: Git e GitHub, Figma e VSCode.
 </p>
 
