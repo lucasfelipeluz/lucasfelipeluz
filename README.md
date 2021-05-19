@@ -1,14 +1,14 @@
-<p align="left">
+<p align="center">
 Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong> e atualmente estou fazendo graduação em Analíse e Desenvolvimento de Sistemas.
 </p>
 
-<p align="left">
+<p align="center">
 🎯Habilidades: HTML, CSS, Javascript, JQuery e Bootstrap. <br>
 🩺Ferramentas: Git e GitHub, Figma e VSCode.
 </p>
 
-Se você quiser fazer um projeto comigo (ou bater um papo), sinta-se à vontade para me enviar uma mensagem:<br>
-<p align="left">
+<p align="center">Se você quiser fazer um projeto comigo (ou bater um papo), sinta-se à vontade para me enviar uma mensagem:<br></p> 
+<p align="center">
   <a href="https://www.instagram.com/lucasfelipeluz/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lucasfelipeluz/"/></a>
 
