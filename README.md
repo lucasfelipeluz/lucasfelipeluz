@@ -4,7 +4,7 @@ Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong> e atualmen
 
 <p align="left">
 🎯Habilidades: HTML, CSS, Javascript, JQuery, Bootstrap, e Sass. <br>
-🩺Ferramentas: Git e GitHub, Figma e VSCode.
+🩺Ferramentas: Git e GitHub, Figma, Notion e VSCode.
 </p>
 
 <p align="left">Se você quiser fazer um projeto comigo (ou bater um papo), sinta-se à vontade para me enviar uma mensagem:<br></p> 
