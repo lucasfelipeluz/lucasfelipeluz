@@ -1,5 +1,5 @@
 <p align="left">
-Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong> e atualmente estou fazendo graduação em Analíse e Desenvolvimento de Sistemas.
+Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong> com foco em me tornar Full Stack e atualmente estou fazendo graduação em Analíse e Desenvolvimento de Sistemas.
 </p>
 
 <p align="left">
