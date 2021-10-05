@@ -1,5 +1,5 @@
 <p align="left">
-Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong> com foco em me tornar Full Stack e atualmente estou fazendo graduação em Analíse e Desenvolvimento de Sistemas.
+Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong> com foco em me tornar Full Stack e atualmente estou fazendo graduação em Análise e Desenvolvimento de Sistemas.
 </p>
 
 <p align="left">
@@ -17,4 +17,7 @@ Olá, meu nome é Lucas, sou desenvolvedor <strong>Front-End</strong> com foco e
   
   <a href="https://www.linkedin.com/in/lucasfelipeluz" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfelipeluz" /></a>
+  
+  <a href="https://lucasfelipeluz.github.io/" alt="Portfólio" target="_blank">
+  <img src="https://img.shields.io/badge/-Meu%20Portfólio-1e272e?style=for-the-badge&logo=favicon&logoColor=black&link=https://www.lucasfelipeluz.github.io" /></a>
 </p> 
