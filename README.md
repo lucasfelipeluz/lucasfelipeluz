@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-🎯Skills: HTML, CSS, Bootstrap, Sass, JavaScript, jQuery and Node.js.<br>
+🎯Skills: HTML, CSS, Bootstrap, Sass, JavaScript and Node.js.<br>
 🩺Tools: Git and GitHub, Figma, Notion and VSCode.
 </p>
 
