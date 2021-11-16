@@ -25,3 +25,11 @@
   <a href="https://lucasfelipeluz.github.io/" alt="Portfólio" target="_blank">
   <img src="https://img.shields.io/badge/-My%20Portfolio-1e272e?style=for-the-badge&logo=favicon&logoColor=black&link=https://www.lucasfelipeluz.github.io" /></a>
 </p> 
+
+***
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=lucasfelipeluz&label=PROFILE+VIEWS" alt="lucasfelipeluz" /> 
+</p>
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelipeluz&hide=scss&layout=compact&theme=tokyonight)
