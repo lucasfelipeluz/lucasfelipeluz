@@ -1,6 +1,6 @@
 <p align="left">
   Hi, I'm a <strong>Full Stack Developer</strong>, and I'm currently doing a degree in Systems Analysis and Development.<br>
-  Presently work at Wipro as Intern.
+  I work for Wipro providing services to DETRAN/PE.
 </p>
 
 <p align="left">
