@@ -1,10 +1,9 @@
 <p align="left">
-  Hi, I'm a <strong>Full Stack Developer</strong>, and I'm currently doing a degree in Systems Analysis and Development.<br>
-  I work for Wipro providing services to DETRAN/PE.
+  Hi, I'm a <strong>Full Stack Developer</strong>
 </p>
 
 <p align="left">
-🎯Skills: HTML, CSS, Bootstrap, Sass, JavaScript/TypeScript, Node.js and .NET (webapi and mvc).<br>
+🎯Skills: HTML, CSS, Bootstrap, Sass, Angular, JavaScript/TypeScript, Node.js and .NET (webapi and mvc).<br>
 🩺Tools: Git and GitHub, Figma, Notion and VSCode.
 </p>
 
