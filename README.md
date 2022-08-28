@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-🎯Skills: HTML, CSS, Bootstrap, Sass, Angular, JavaScript/TypeScript, Node.js and .NET (webapi and mvc).<br>
+🎯Skills: HTML, CSS, Bootstrap, Sass, Angular, JavaScript/TypeScript, and .NET (webapi and mvc).<br>
 🩺Tools: Git and GitHub, Figma, Notion and VSCode.
 </p>
 
