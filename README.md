@@ -1,12 +1,3 @@
-<p align="left">
-  Hi, I'm a <strong>Full Stack Developer</strong>
-</p>
-
-<p align="left">
-🎯Skills: Node, .NET (webapi and mvc), Angular, React, NextJs, HTML, CSS, Boostrap and Sass.<br>
-🩺Tools: Git and GitHub, Figma, Notion, VSCode, Docker and Trello.
-</p>
-
 <p align="left">If you to do a project with me (or chat about programming), feel free to send me a message 🤠:<br></p> 
 <p align="left">
   
